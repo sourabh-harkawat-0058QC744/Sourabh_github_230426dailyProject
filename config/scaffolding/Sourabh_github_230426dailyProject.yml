@@ -8,11 +8,10 @@ packages:
   gitUsername: sourabh-harkawat-0058QC744
   gitBranch: main
 - name: LowerFSPackage
-  version: "2.2"
-  gitServerName: srcCtrl_github_Sourabh
+  gitServerName: srcCtrl_github_Sourabh_shared
   gitUrl: https://github.com/sourabh-harkawat-0058QC744
   gitUsername: sourabh-harkawat-0058QC744
-  gitBranch: main
+  gitBranch: nested1/nested2
 services:
 - serviceName: project.sourabh_github_230426daily.integrations:fdads
   packages:
