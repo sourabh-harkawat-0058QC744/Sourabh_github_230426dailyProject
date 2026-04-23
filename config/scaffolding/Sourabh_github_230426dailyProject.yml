@@ -12,7 +12,7 @@ packages:
   gitServerName: srcCtrl_github_Sourabh
   gitUrl: https://github.com/sourabh-harkawat-0058QC744
   gitUsername: sourabh-harkawat-0058QC744
-  gitBranch: nested1/nested2
+  gitBranch: main
 services:
 - serviceName: project.sourabh_github_230426daily.integrations:fdads
   packages:
